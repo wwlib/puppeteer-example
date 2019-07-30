@@ -1,0 +1,12 @@
+{
+  "name": "puppeteer-example",
+  "version": "0.0.1",
+  "description": "A puppeteer example.",
+  "main": "index.js",
+  "repository": "git+ssh://git@github.com:wwlib/puppeteer-example.git",
+  "author": "Andrew Rapo",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
